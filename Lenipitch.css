@@ -1,0 +1,134 @@
+ 
+  
+body 
+ { 
+     font-family: latha; 
+     color:rgb(185, 37, 37);
+     background:  url("./why\ we\ matter.png");
+      background-size: cover;
+ } 
+
+  .box1 { 
+     width: 1000px;  
+     height: 1000px; 
+     border: 20px solid yellow;  
+     background-image: url("./trainings.png");
+     margin-left: 100px; 
+     display: none;
+  } 
+ div.both1:hover .box1{  
+   display: block;
+  }   
+  .box2{ 
+    width: 1000px; 
+    height:1000px; 
+    border: 20px solid yellow;  
+    
+    margin-left: 100px; 
+    display: none;
+ } 
+ 
+div.both2:hover .box2{  
+  display: block;
+ }   
+ .box3{ 
+  width: 1000px; 
+  height: 1000px; 
+background-image: url("./single.png");
+border: 20px solid yellow; 
+  margin-left: 100px; 
+  display: none;
+} 
+div.both3:hover .box3{  
+display: block;
+}   
+.box4{ 
+  width: 1000px; 
+  height: 1000px;   
+
+  border: 20px solid yellow; 
+  margin-left: 100px; 
+  display: none;
+} 
+div.both4:hover .box4{  
+display: block;
+}   
+.box5{ 
+  width: 1000px; 
+  height: 1000px;  
+
+  border: 20px solid yellow; 
+  margin-left: 100px; 
+  display: none;
+} 
+div.both5:hover .box5{  
+display: block;
+}   
+.box6{ 
+  width: 1000px; 
+  height: 1000px;  
+  background-image: url("./pmspeakseries.png");
+  border: 20px solid yellow; 
+  margin-left: 100px; 
+  display: none;
+} 
+div.both6:hover .box6{  
+display: block;
+}   
+.box7{ 
+  width: 1000px; 
+  height: 1000px; 
+  background-image: url("./Screenshot\ \(40\).png");
+  border: 20px solid yellow; 
+  margin-left: 100px; 
+  display: none;
+} 
+div.both7:hover .box7{  
+display: block;
+}   
+.box8{ 
+  width: 1000px; 
+  height: 1000px;   
+  background-image: url("./podcasts.png");
+  border: 20px solid yellow; 
+  margin-left: 100px; 
+  display: none;
+} 
+div.both8:hover .box8{  
+display: block;
+}   
+.box9{ 
+  width: 1000px; 
+  height: 1000px;   
+
+  border: 20px solid yellow; 
+  margin-left: 100px; 
+  display: none;
+} 
+div.both9:hover .box9{  
+display: block;
+}   
+.box10{ 
+  width: 1000px; 
+  height: 1000px; 
+
+  border: 20px solid yellow; 
+  display: none;
+} 
+div.both10:hover .box10{  
+display: block;
+}    
+.box11{ 
+  width: 1000px; 
+  height: 1000px; 
+
+  border: 20px solid yellow; 
+  margin-left: 100px; 
+  display: none;
+} 
+div.both11:hover .box11{  
+display: block;
+}    
+
+  
+  
